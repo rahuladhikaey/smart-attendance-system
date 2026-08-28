@@ -1,0 +1,11 @@
+// Student workspace — barrel exports
+export { StudentDashboard } from './StudentDashboard';
+export { StudentAttendanceStart } from './StudentAttendanceStart';
+export { StudentLocationVerification } from './StudentLocationVerification';
+export { StudentQRScan } from './StudentQRScan';
+export { StudentBiometricVerification } from './StudentBiometricVerification';
+export { StudentAttendanceSuccess } from './StudentAttendanceSuccess';
+export { StudentAttendanceFailure } from './StudentAttendanceFailure';
+export { StudentHistory } from './StudentHistory';
+export { StudentSchedule } from './StudentSchedule';
+export { StudentProfile } from './StudentProfile';

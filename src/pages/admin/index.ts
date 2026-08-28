@@ -1,0 +1,15 @@
+// Admin workspace — barrel exports
+export { AdminDashboard } from './AdminDashboard';
+export { AttendanceManagement } from './AttendanceManagement';
+export { AttendanceSessionDetail } from './AttendanceSessionDetail';
+export { StudentsList } from './StudentsList';
+export { StudentDetail } from './StudentDetail';
+export { TeachersList } from './TeachersList';
+export { TeacherDetail } from './TeacherDetail';
+export { ClassesList } from './ClassesList';
+export { ClassDetail } from './ClassDetail';
+export { ReportsPage } from './ReportsPage';
+export { AnalyticsPage } from './AnalyticsPage';
+export { VerificationSecurity } from './VerificationSecurity';
+export { NotificationsPage } from './NotificationsPage';
+export { SettingsPage } from './SettingsPage';

@@ -1,0 +1,9 @@
+// Teacher workspace — barrel exports
+export { TeacherDashboard } from './TeacherDashboard';
+export { TeacherClasses } from './TeacherClasses';
+export { TeacherClassDetail } from './TeacherClassDetail';
+export { TeacherAttendance } from './TeacherAttendance';
+export { TeacherLiveSession } from './TeacherLiveSession';
+export { TeacherStudents } from './TeacherStudents';
+export { TeacherReports } from './TeacherReports';
+export { TeacherProfile } from './TeacherProfile';
